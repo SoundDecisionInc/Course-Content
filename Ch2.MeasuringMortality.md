@@ -18,7 +18,7 @@
 
 式1
 
-$$生命損失人年數(YLLs)=\sum N \times e$$
+生命損失人年數 ![image](https://render.githubusercontent.com/render/math?math=(YLLs)=\sum%20N%20\times%20e)
 
 平均餘命（life expectancy）則是從生命表（life table）計算而來。以全球疾病負擔（Global Burden of Disease, GBD）計畫來說，透過建立每個年齡的生命表計算預期存活年齡。以表 2舉例，0歲的平均餘命是86.02年，表示一個0歲的人平均預期可以活到86.02歲；反之，對一位50歲的人來說，平均剩餘的壽命剩下37.05年，歲數與平均餘命加總會是87.05年，比起0歲預期壽命更長；對於一個100歲的人，平均餘命則還有2.23年，預期壽命為102.23年[2]。
 
