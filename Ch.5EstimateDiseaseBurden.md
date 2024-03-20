@@ -1,3 +1,15 @@
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$']]
+    }
+  };
+</script>
+
+
 # 第五章、疾病負擔使用的估計方法
 
 此檔案為林先和老師「疾病負擔測量:從方法到應用」課程文字稿
